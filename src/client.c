@@ -6,7 +6,13 @@
 /*   By: pabartoc <pabartoc@student.42heilbronn.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/26 06:29:16 by pabartoc          #+#    #+#             */
-/*   Updated: 2026/06/26 06:29:17 by pabartoc         ###   ########.fr       */
+/*   Updated: 2026/06/28 05:23:43 by pabartoc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "minitalk.h"
+
+int	main(void)
+{
+	return (EXIT_SUCCESS);
+}
